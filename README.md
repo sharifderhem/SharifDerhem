@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2900&pause=900&color=38BCF7&center=true&width=435&lines=ML+Engineer+Who+Ships;Production-Ready+AI;Backend+Systems+Architect;Open+Source+Contributor" alt="Typing SVG" />
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=SharifDer&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=SharifDerhem&color=blueviolet&style=flat-square)
 </p>
 
 ---
@@ -22,7 +22,7 @@
       ✅ <b>DevOps</b>: CI/CD with 100% test coverage
     </td>
     <td width="40%">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SharifDer&layout=compact&theme=vision-friendly-dark&hide_border=true&v=2" alt="Coding Activity">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SharifDerhem&layout=compact&theme=vision-friendly-dark&hide_border=true&v=2" alt="Coding Activity">
     </td>
   </tr>
 </table>
@@ -68,13 +68,13 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <a href="https://github.com/SharifDer">
-        <img src="https://github-readme-stats.vercel.app/api?username=SharifDer&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true">
+      <a href="https://github.com/SharifDerhem">
+        <img src="https://github-readme-stats.vercel.app/api?username=SharifDerhem&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true">
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/SharifDer?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifDer&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=html,css,scss">
+      <a href="https://github.com/SharifDerhem?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifDerhem&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=html,css,scss">
       </a>
     </td>
   </tr>
