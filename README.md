@@ -81,7 +81,7 @@
   <tr>
     <td colspan="2">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=SharifDer&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+        <img src="https://streak-stats.demolab.com?user=SharifDerhem&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
       </a>
     </td>
   </tr>
@@ -93,10 +93,10 @@
 <table width="100%">
   <tr>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/github/followers/SharifDer?label=Followers&color=orange">
+      <img src="https://img.shields.io/github/followers/SharifDerhem?label=Followers&color=orange">
     </td>
     <td width="25%" align="center">
-      <img src="https://img.shields.io/github/stars/SharifDer?label=Total%20Stars&color=blueviolet">
+      <img src="https://img.shields.io/github/stars/SharifDerhem?label=Total%20Stars&color=blueviolet">
     </td>
     <td width="25%" align="center">
       <!-- No badge available for public repo count, so you must update manually -->
@@ -109,7 +109,7 @@
   </tr>
   <tr>
     <td colspan="4" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharifDer&theme=github_dark">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharifDerhem&theme=github_dark">
     </td>
   </tr>
 </table>
@@ -126,7 +126,7 @@
   <a href="mailto:sharifderhem@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://github.com/SharifDer">
+  <a href="https://github.com/SharifDerhem">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
   </a>
 </p>
